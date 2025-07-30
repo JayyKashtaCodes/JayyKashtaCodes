@@ -1,9 +1,15 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**JayyKashtaCodes/JayyKashtaCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Jayy Kashta**, a passionate coder and the founder of **Kashta Interactive Coding**. I love creating engaging and innovative projects that push the boundaries of technology. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on my own RPG game.
-- 🌱 I’m currently learning Unity, Unreal, C#, Javascript and Python.
+## About Me
+
+I am based in **New Zealand** and I enjoy developing software that enhances user experience and functionality. My journey in coding began years ago, and it has since evolved into my profession and passion. Currently, I work at **Kashta Interactive Coding**, where I engage in various exciting projects.
+
+## Skills & Technologies
+
+unity,unreal,cs,lua,py,linux,dotnet,html,css,java,docker,jquery,mysql
+
+## GitHub Stats
+
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JayyKashtaCodes&show_icons=true&hide_title=true&count_private=true&theme=radical)
