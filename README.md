@@ -17,6 +17,8 @@ I'm **Jayy Kashta**, a software developer and the driving force behind **Kashta 
 
 Located in **New Zealand**, I specialize in software development and enjoy working on diverse projects. With a focus on interactive coding, I'm committed to delivering high-quality results in everything I do.
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayykashtacodes" alt="jayykashtacodes" /></a> </p>
+
 ## Skills & Technologies
 
 <h3 align="left">Languages and Tools:</h3>
