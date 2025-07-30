@@ -8,7 +8,7 @@ I am based in **New Zealand** and I enjoy developing software that enhances user
 
 ## Skills & Technologies
 
-unity,unreal,cs,lua,py,linux,dotnet,html,css,java,docker,jquery,mysql
+[unity,unreal,cs,lua,py,linux,dotnet,html,css,java,docker,jquery,mysql](https://skillicons.dev/icons?i=unity,unreal,cs,lua,py,linux,dotnet,html,css,java,docker,jquery,mysql&perline=8)
 
 ## GitHub Stats
 
