@@ -1,15 +1,26 @@
+## ASCII Art
+
+```
+      _                   _  __         _     _         ____          _           
+     | | __ _ _   _ _   _| |/ /__ _ ___| |__ | |_ __ _ / ___|___   __| | ___  ___ 
+  _  | |/ _` | | | | | | | ' // _` / __| '_ \| __/ _` | |   / _ \ / _` |/ _ \/ __|
+ | |_| | (_| | |_| | |_| | . \ (_| \__ \ | | | || (_| | |__| (_) | (_| |  __/\__ \
+  \___/ \__,_|\__, |\__, |_|\_\__,_|___/_| |_|\__\__,_|\____\___/ \__,_|\___||___/
+              |___/ |___/                                                         
+```
+
 ## Hi there! 👋
 
-I'm **Jayy Kashta**, a passionate coder and the founder of **Kashta Interactive Coding**. I love creating engaging and innovative projects that push the boundaries of technology. Welcome to my GitHub profile!
+I'm **Jayy Kashta**, a software developer and the driving force behind **Kashta Interactive Coding**. Passionate about coding and creating innovative solutions, I'm always eager to take on new challenges!
 
 ## About Me
 
-I am based in **New Zealand** and I enjoy developing software that enhances user experience and functionality. My journey in coding began years ago, and it has since evolved into my profession and passion. Currently, I work at **Kashta Interactive Coding**, where I engage in various exciting projects.
+Located in **New Zealand**, I specialize in software development and enjoy working on diverse projects. With a focus on interactive coding, I'm committed to delivering high-quality results in everything I do.
 
 ## Skills & Technologies
 
-[unity,unreal,cs,lua,py,linux,dotnet,html,css,java,docker,jquery,mysql](https://skillicons.dev/icons?i=unity,unreal,cs,lua,py,linux,dotnet,html,css,java,docker,jquery,mysql&perline=8)
+php,html,css,vue,react,flutter,nodejs,docker,git,github,linux,graphql,aws,mysql,postgres
 
 ## GitHub Stats
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JayyKashtaCodes&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JayyKashtaCodes&show_icons=true&theme=radical)
