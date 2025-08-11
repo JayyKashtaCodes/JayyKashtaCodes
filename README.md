@@ -19,7 +19,7 @@ Located in **New Zealand**, I specialize in software development and enjoy worki
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=php,html,css,vue,react,flutter,nodejs,docker,git,github,windows,linux,graphql,aws,mysql,lua,laravel,discordjs,svg,gmail,htmx,ps,ai,pr,ae,yarn,py,pycharm,cloudflare&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,html,css,vue,react,flutter,nodejs,docker,git,github,windows,linux,graphql,aws,mysql,lua,laravel,discordjs,gmail,htmx,ps,ai,pr,ae,yarn,py,pycharm,cloudflare,svg&perline=8)](https://skillicons.dev)
 
 ## GitHub Stats
 
