@@ -23,3 +23,4 @@ Located in **New Zealand**, I specialize in software development and enjoy worki
 
 ## GitHub Stats
 ![JayyKashtaCodes trophies](https://github-profile-trophy.vercel.app/?username=JayyKashtaCodes&theme=flat&row=2&column=2&no-bg=true)
+![JayyKashtaCodes streak badge](https://github-readme-streak-stats.herokuapp.com?user=JayyKashtaCodes&theme=default)
