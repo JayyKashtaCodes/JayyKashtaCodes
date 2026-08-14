@@ -22,5 +22,4 @@ Located in **New Zealand**, I specialize in software development and enjoy worki
 [![My Skills](https://skillicons.dev/icons?i=php,html,css,vue,react,flutter,nodejs,docker,git,github,windows,linux,graphql,aws,mysql,lua,laravel,discordjs,gmail,htmx,ps,ai,pr,ae,yarn,py,pycharm,cloudflare,svg,c,cs,cpp&perline=8)](https://skillicons.dev)
 
 ## GitHub Stats
-
-[![trophy](https://github-enchanter-list.vercel.app/?username=JayyKashtaCodes)](https://github.com/ryo-ma/github-profile-trophy)
+![JayyKashtaCodes trophies](https://github-profile-trophy.vercel.app/?username=JayyKashtaCodes&theme=flat&row=2&column=2&no-bg=true)
