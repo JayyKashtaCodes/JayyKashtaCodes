@@ -23,4 +23,4 @@ Located in **New Zealand**, I specialize in software development and enjoy worki
 
 ## GitHub Stats
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayykashtacodes&theme=onedark" alt="jayykashtacodes" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
