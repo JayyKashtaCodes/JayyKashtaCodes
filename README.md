@@ -17,6 +17,8 @@ I'm **Jayy Kashta**, a software developer and the driving force behind **Kashta 
 
 Located in **New Zealand**, I specialize in software development and enjoy working on diverse projects. With a focus on interactive coding, I'm committed to delivering high-quality results in everything I do.
 
+![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JayyKashtaCodes&theme=tokyonight)
+
 ## Skills & Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=php,html,css,vue,react,flutter,nodejs,docker,git,github,windows,linux,graphql,aws,mysql,lua,laravel,discordjs,gmail,htmx,ps,ai,pr,ae,yarn,py,pycharm,cloudflare,svg,c,cs,cpp&perline=8)](https://skillicons.dev)
