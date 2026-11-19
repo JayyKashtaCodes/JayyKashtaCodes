@@ -8,7 +8,8 @@
   \___/ \__,_|\__, |\__, |_|\_\__,_|___/_| |_|\__\__,_|\____\___/ \__,_|\___||___/
               |___/ |___/                                                         
 ```
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayykashtacodes&label=Profile%20views&color=0e75b6&style=plastic" alt="jayykashtacodes" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayykashtacodes&label=Profile%20views&color=0e75b6&style=plastic" alt="jayykashtacodes" /></p>
+
 ## Hi there! 👋
 
 I'm **Jayy Kashta**, a software developer and the driving force behind **Kashta Interactive Coding**. Passionate about coding and creating innovative solutions, I'm always eager to take on new challenges!
@@ -22,4 +23,8 @@ Located in **New Zealand**, I specialize in software development and enjoy worki
 [![My Skills](https://skillicons.dev/icons?i=php,html,css,vue,react,flutter,nodejs,docker,git,github,windows,linux,graphql,aws,mysql,lua,laravel,discordjs,gmail,htmx,ps,ai,pr,ae,yarn,py,pycharm,cloudflare,svg,c,cs,cpp&perline=8)](https://skillicons.dev)
 
 ## GitHub Stats
-![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JayyKashtaCodes&theme=tokyonight)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=JayyKashtaCodes&theme=catppuccin&hide_border=true&hide=stars%2Cissues%2Cstreak%2Cweek%2Ccontributions%2Ctrend%2Cgrade%2Cprs)
+
+![Top Languages](https://ghstats.dev/api/langs?username=JayyKashtaCodes&theme=catppuccin&hide_border=true&max_langs=12&layout=donut)
+
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=JayyKashtaCodes&theme=catppuccin&days=30&width=500&height=260&hide_border=true)
