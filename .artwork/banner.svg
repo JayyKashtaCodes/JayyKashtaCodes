@@ -18,11 +18,6 @@
       />
     </linearGradient>
 
-    <!-- Subtle Horizontal Scanline Pattern -->
-    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
-      <line x1="0" y1="0" x2="4" y2="0" stroke="#38bdf8" stroke-width="0.6" stroke-opacity="0.12"/>
-    </pattern>
-
     <!-- Multi-Pass Neon Bloom Filter -->
     <filter id="neonGlow" x="-15%" y="-15%" width="130%" height="130%">
       <feGaussianBlur stdDeviation="2.5" result="blur1"/>
