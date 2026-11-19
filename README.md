@@ -9,7 +9,7 @@
               |___/ |___/                                                         
 ```
 <p align="center">
-  <img src="./artwork/banner.svg" alt="JayyKashtaCodes" />
+  <img src="./.artwork/banner.svg" alt="JayyKashtaCodes" />
 </p>
 <!-- pacman -->
 <picture>
