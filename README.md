@@ -8,7 +8,9 @@
   \___/ \__,_|\__, |\__, |_|\_\__,_|___/_| |_|\__\__,_|\____\___/ \__,_|\___||___/
               |___/ |___/                                                         
 ```
-
+<p align="center">
+  <img src="./artwork/banner.svg" alt="JayyKashtaCodes" />
+</p>
 <!-- pacman -->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JayyKashtaCodes/JayyKashtaCodes/output/pacman-contribution-graph-dark.svg">
